@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome!</string>
+    <string name="min_temp">Min</string>
+    <string name="max_temp">Max</string>
+    <string name="humidity">Humidity</string>
+    <string name="button_text">Click and Wait</string>
+</resources>
